@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+
+.block-title{
+	color:rgba(133,158,181,1.00);
+}
+.title{
+	font-size: 30px;
+	line-height: normal;
+}
+
+.top-panel{
+	background-color:rgba(133,158,181,1.00);
+	color: #fff;
+	padding: 20px 0;
+	text-align: center;
+	font-weight: 500;
+}
+.panel .list{
+	margin-top: 0;
+}
+.panel .list ul::before,
+.panel .list ul::after{
+	background-color: transparent;
+}
+.panel .list .item-inner::after{
+	background-color: transparent;
+}
+.panel .list span{
+	color: rgba(133,158,181,1.00);
+}
+.panel .list{
+	font-size: 14px;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+	margin: 2px 0;
+}
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+}
+
+.img{
+	padding: 170px 20px;
+	color: #000;
+	border-radius: 5px;
+}
+.hotel{
+	background-image: url("../img/9ae54ef7-217d-4877-a614-4760325f9a9b-Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom.jpg");
+	
+}
+
+.img2{
+	padding: 170px 20px;
+	color: #000;
+	border-radius: 5px;
+}
+
+.hotel2{
+	background-image:url("../img/1407953244000-177513283.jpg");
+	
+}
+
+.img3{
+	padding: 170px 20px;
+	color: #000;
+	border-radius: 5px;
+}
+
+.hotel3{
+	background-image:url("../img/resort-queen-01-792x446.jpg");
+	
+}
+
+.img4{
+	padding: 150px 20px;
+	color: #000;
+	border-radius: 5px;
+}
+
+.hotel4{
+	background-image:url("../img/CLASSIC-STUDIO-420x300.jpg")
+	
+}
+
+
+
+
+
+
+
+
+
+
